@@ -1,0 +1,60 @@
+2021-02-23 11:50:04 log_util.py[line:19] INFO 登录成功【用户名：juno3550, 密码：258978aa, 断言关键字：退出】
+2021-02-23 12:01:18 log_util.py[line:19] INFO 登录成功【用户名：juno3550, 密码：258978aa, 断言关键字：退出】
+2021-02-23 12:01:29 log_util.py[line:27] ERROR 添加联系人失败【姓名：铁蛋, 邮箱：asfhi@123.com, 手机号：12222222222, 是否星标联系人：是, 备注：这是备注, 断言关键字：铁蛋】
+2021-02-23 12:03:13 log_util.py[line:19] INFO 登录成功【用户名：juno3550, 密码：258978aa, 断言关键字：退出】
+2021-02-23 12:03:13 log_util.py[line:27] ERROR 添加联系人失败【姓名：铁蛋, 邮箱：asfhi@123.com, 手机号：12222222222, 是否星标联系人：是, 备注：这是备注, 断言关键字：铁蛋】
+2021-02-23 12:04:28 log_util.py[line:19] INFO 登录成功【用户名：juno3550, 密码：258978aa, 断言关键字：退出】
+2021-02-23 12:04:32 log_util.py[line:19] INFO 添加联系人成功【姓名：铁蛋, 邮箱：asfhi@123.com, 手机号：12222222222, 是否星标联系人：是, 备注：这是备注, 断言关键字：铁蛋】
+2021-02-23 16:35:56 log_util.py[line:19] INFO 登录成功【用户名：juno3550, 密码：258978aa, 断言关键字：退出】
+2021-02-23 16:36:00 log_util.py[line:19] INFO 添加联系人成功【姓名:lily, 邮箱:lily@qq.com, 手机号:135xxxxxxx1, 是否星标联系人:是, 备注:常联系人, 断言关键字:lily@qq.com】
+2021-02-23 16:36:03 log_util.py[line:27] ERROR 添加联系人失败【姓名:张三, 邮箱:zhangsan@qq.com, 手机号:158xxxxxxx3, 是否星标联系人:否, 备注:不常联系人, 断言关键字:zhangsan@qq.comxx】
+2021-02-23 16:40:19 log_util.py[line:19] INFO 登录成功【用户名：juno3550, 密码：258978aa, 断言关键字：退出】
+2021-02-23 16:40:23 log_util.py[line:19] INFO 添加联系人成功【姓名:lily, 邮箱:lily@qq.com, 手机号:135xxxxxxx1, 是否星标联系人:是, 备注:常联系人, 断言关键字:lily@qq.com】
+2021-02-23 16:40:26 log_util.py[line:27] ERROR 添加联系人失败【姓名:张三, 邮箱:zhangsan@qq.com, 手机号:158xxxxxxx3, 是否星标联系人:否, 备注:不常联系人, 断言关键字:zhangsan@qq.comxx】
+2021-02-23 16:40:29 log_util.py[line:27] ERROR 添加联系人失败【姓名:李四, 邮箱:lisi@qq.com, 手机号:157xxxxxx9, 是否星标联系人:否, 备注:None, 断言关键字:李四】
+2021-02-23 16:43:16 log_util.py[line:19] INFO 登录成功【用户名：juno3550, 密码：258978aa, 断言关键字：退出】
+2021-02-23 16:43:21 log_util.py[line:19] INFO 添加联系人成功【姓名:lily, 邮箱:lily@qq.com, 手机号:135xxxxxxx1, 是否星标联系人:是, 备注:常联系人, 断言关键字:lily@qq.com】
+2021-02-23 16:43:24 log_util.py[line:27] ERROR 添加联系人失败【姓名:张三, 邮箱:zhangsan@qq.com, 手机号:158xxxxxxx3, 是否星标联系人:否, 备注:不常联系人, 断言关键字:zhangsan@qq.comxx】
+2021-02-23 16:43:27 log_util.py[line:19] INFO 添加联系人成功【姓名:李四, 邮箱:lisi@qq.com, 手机号:157xxxxxx9, 是否星标联系人:否, 备注:, 断言关键字:李四】
+2021-02-23 16:48:20 log_util.py[line:19] INFO 登录成功【用户名：juno3550, 密码：258978aa, 断言关键字：退出】
+2021-02-23 16:48:24 log_util.py[line:19] INFO 添加联系人成功【姓名:lily, 邮箱:lily@qq.com, 手机号:135xxxxxxx1, 是否星标联系人:是, 备注:常联系人, 断言关键字:lily@qq.com】
+2021-02-23 16:48:27 log_util.py[line:27] ERROR 添加联系人失败【姓名:张三, 邮箱:zhangsan@qq.com, 手机号:158xxxxxxx3, 是否星标联系人:否, 备注:不常联系人, 断言关键字:zhangsan@qq.comxx】
+2021-02-23 16:48:31 log_util.py[line:19] INFO 添加联系人成功【姓名:李四, 邮箱:lisi@qq.com, 手机号:157xxxxxx9, 是否星标联系人:否, 备注:, 断言关键字:李四】
+2021-02-23 16:49:47 log_util.py[line:19] INFO 登录成功【用户名：zhangjun252950418, 密码：zhangjun123, 断言关键字：退出】
+2021-02-23 16:49:52 log_util.py[line:19] INFO 添加联系人成功【姓名:lily, 邮箱:lily@qq.com, 手机号:135xxxxxxx1, 是否星标联系人:是, 备注:常联系人, 断言关键字:lily@qq.com】
+2021-02-23 16:49:56 log_util.py[line:27] ERROR 添加联系人失败【姓名:张三, 邮箱:zhangsan@qq.com, 手机号:158xxxxxxx3, 是否星标联系人:否, 备注:不常联系人, 断言关键字:zhangsan@qq.comxx】
+2021-02-23 16:50:00 log_util.py[line:19] INFO 添加联系人成功【姓名:李四, 邮箱:lisi@qq.com, 手机号:157xxxxxx9, 是否星标联系人:否, 备注:, 断言关键字:李四】
+2021-02-23 16:50:13 log_util.py[line:27] ERROR 登录失败【用户名：juno3550, 密码：258978aa, 断言关键字：退出】
+2021-02-23 16:53:55 log_util.py[line:19] INFO 登录成功【用户名：zhangjun252950418, 密码：zhangjun123, 断言关键字：退出】
+2021-02-23 16:54:00 log_util.py[line:19] INFO 添加联系人成功【姓名:lily, 邮箱:lily@qq.com, 手机号:135xxxxxxx1, 是否星标联系人:是, 备注:常联系人, 断言关键字:lily@qq.com】
+2021-02-23 16:54:11 log_util.py[line:27] ERROR 添加联系人失败【姓名:张三, 邮箱:zhangsan@qq.com, 手机号:158xxxxxxx3, 是否星标联系人:否, 备注:不常联系人, 断言关键字:zhangsan@qq.comxx】
+2021-02-23 16:54:36 log_util.py[line:27] ERROR 添加联系人失败【姓名:李四, 邮箱:lisi@qq.com, 手机号:157xxxxxx9, 是否星标联系人:否, 备注:, 断言关键字:李四】
+2021-02-23 16:55:07 log_util.py[line:19] INFO 登录成功【用户名：zhangjun252950418, 密码：zhangjun123, 断言关键字：退出】
+2021-02-23 16:55:12 log_util.py[line:19] INFO 添加联系人成功【姓名:lily, 邮箱:lily@qq.com, 手机号:135xxxxxxx1, 是否星标联系人:是, 备注:常联系人, 断言关键字:lily@qq.com】
+2021-02-23 16:55:23 log_util.py[line:27] ERROR 添加联系人失败【姓名:张三, 邮箱:zhangsan@qq.com, 手机号:158xxxxxxx3, 是否星标联系人:否, 备注:不常联系人, 断言关键字:zhangsan@qq.comxx】
+2021-02-23 16:56:33 log_util.py[line:19] INFO 登录成功【用户名：zhangjun252950418, 密码：zhangjun123, 断言关键字：退出】
+2021-02-23 16:56:38 log_util.py[line:19] INFO 添加联系人成功【姓名:lily, 邮箱:lily@qq.com, 手机号:135xxxxxxx1, 是否星标联系人:是, 备注:常联系人, 断言关键字:lily@qq.com】
+2021-02-23 16:56:42 log_util.py[line:27] ERROR 添加联系人失败【姓名:张三, 邮箱:zhangsan@qq.com, 手机号:158xxxxxxx3, 是否星标联系人:否, 备注:不常联系人, 断言关键字:zhangsan@qq.comxx】
+2021-02-23 16:56:46 log_util.py[line:19] INFO 添加联系人成功【姓名:李四, 邮箱:lisi@qq.com, 手机号:157xxxxxx9, 是否星标联系人:否, 备注:, 断言关键字:李四】
+2021-02-23 16:57:04 log_util.py[line:19] INFO 登录成功【用户名：juno3550, 密码：258978aa, 断言关键字：退出】
+2021-02-23 16:57:09 log_util.py[line:19] INFO 添加联系人成功【姓名:lily, 邮箱:lily@qq.com, 手机号:135xxxxxxx1, 是否星标联系人:是, 备注:常联系人, 断言关键字:lily@qq.com】
+2021-02-23 16:57:12 log_util.py[line:27] ERROR 添加联系人失败【姓名:张三, 邮箱:zhangsan@qq.com, 手机号:158xxxxxxx3, 是否星标联系人:否, 备注:不常联系人, 断言关键字:zhangsan@qq.comxx】
+2021-02-23 16:57:16 log_util.py[line:19] INFO 添加联系人成功【姓名:李四, 邮箱:lisi@qq.com, 手机号:157xxxxxx9, 是否星标联系人:否, 备注:, 断言关键字:李四】
+2021-02-23 16:59:15 log_util.py[line:19] INFO 登录成功【用户名：zhangjun252950418, 密码：zhangjun123, 断言关键字：退出】
+2021-02-23 16:59:20 log_util.py[line:19] INFO 添加联系人成功【姓名:lily, 邮箱:lily@qq.com, 手机号:135xxxxxxx1, 是否星标联系人:是, 备注:常联系人, 断言关键字:lily@qq.com】
+2021-02-23 16:59:24 log_util.py[line:27] ERROR 添加联系人失败【姓名:张三, 邮箱:zhangsan@qq.com, 手机号:158xxxxxxx3, 是否星标联系人:否, 备注:不常联系人, 断言关键字:zhangsan@qq.comxx】
+2021-02-23 16:59:27 log_util.py[line:19] INFO 添加联系人成功【姓名:李四, 邮箱:lisi@qq.com, 手机号:157xxxxxx9, 是否星标联系人:否, 备注:, 断言关键字:李四】
+2021-02-23 16:59:46 log_util.py[line:19] INFO 登录成功【用户名：juno3550, 密码：258978aa, 断言关键字：退出】
+2021-02-23 16:59:50 log_util.py[line:19] INFO 添加联系人成功【姓名:lily, 邮箱:lily@qq.com, 手机号:135xxxxxxx1, 是否星标联系人:是, 备注:常联系人, 断言关键字:lily@qq.com】
+2021-02-23 16:59:54 log_util.py[line:27] ERROR 添加联系人失败【姓名:张三, 邮箱:zhangsan@qq.com, 手机号:158xxxxxxx3, 是否星标联系人:否, 备注:不常联系人, 断言关键字:zhangsan@qq.comxx】
+2021-02-23 16:59:57 log_util.py[line:19] INFO 添加联系人成功【姓名:李四, 邮箱:lisi@qq.com, 手机号:157xxxxxx9, 是否星标联系人:否, 备注:, 断言关键字:李四】
+2021-02-23 17:47:53 log_util.py[line:19] INFO 登录成功【用户名：zhangjun252950418, 密码：zhangjun123, 断言关键字：退出】
+2021-02-23 17:48:06 log_util.py[line:27] ERROR 登录失败【用户名：juno3550, 密码：258978aa, 断言关键字：退出】
+2021-02-23 22:49:16 log_util.py[line:27] ERROR 登录失败【用户名：zhangjun252950418, 密码：zhangjun123, 断言关键字：退出】
+2021-02-23 22:49:23 log_util.py[line:19] INFO 添加联系人成功【姓名:lily, 邮箱:lily@qq.com, 手机号:135xxxxxxx1, 是否星标联系人:是, 备注:常联系人, 断言关键字:lily@qq.com】
+2021-02-23 22:49:27 log_util.py[line:27] ERROR 添加联系人失败【姓名:张三, 邮箱:zhangsan@qq.com, 手机号:158xxxxxxx3, 是否星标联系人:否, 备注:不常联系人, 断言关键字:zhangsan@qq.comxx】
+2021-02-23 22:49:30 log_util.py[line:19] INFO 添加联系人成功【姓名:李四, 邮箱:lisi@qq.com, 手机号:157xxxxxx9, 是否星标联系人:否, 备注:, 断言关键字:李四】
+2021-02-23 22:49:47 log_util.py[line:19] INFO 登录成功【用户名：juno3550, 密码：258978aa, 断言关键字：退出】
+2021-02-23 22:49:52 log_util.py[line:19] INFO 添加联系人成功【姓名:lily, 邮箱:lily@qq.com, 手机号:135xxxxxxx1, 是否星标联系人:是, 备注:常联系人, 断言关键字:lily@qq.com】
+2021-02-23 22:49:55 log_util.py[line:27] ERROR 添加联系人失败【姓名:张三, 邮箱:zhangsan@qq.com, 手机号:158xxxxxxx3, 是否星标联系人:否, 备注:不常联系人, 断言关键字:zhangsan@qq.comxx】
+2021-02-23 22:49:59 log_util.py[line:19] INFO 添加联系人成功【姓名:李四, 邮箱:lisi@qq.com, 手机号:157xxxxxx9, 是否星标联系人:否, 备注:, 断言关键字:李四】
